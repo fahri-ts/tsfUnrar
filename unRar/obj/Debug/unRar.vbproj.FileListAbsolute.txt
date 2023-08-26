@@ -1,0 +1,13 @@
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.vbproj.AssemblyReference.cache
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.frmUnrar.resources
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.Resources.resources
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.vbproj.GenerateResource.cache
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\unRar.vbproj.CoreCompileInputs.cache
+C:\Users\ts.fahri\source\repos\unRar\unRar\bin\Debug\tsf unRar.exe.config
+C:\Users\ts.fahri\source\repos\unRar\unRar\bin\Debug\tsf unRar.exe
+C:\Users\ts.fahri\source\repos\unRar\unRar\bin\Debug\tsf unRar.pdb
+C:\Users\ts.fahri\source\repos\unRar\unRar\bin\Debug\tsf unRar.xml
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\tsf unRar.exe
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\tsf unRar.xml
+C:\Users\ts.fahri\source\repos\unRar\unRar\obj\Debug\tsf unRar.pdb
